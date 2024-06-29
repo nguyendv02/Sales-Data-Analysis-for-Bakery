@@ -30,7 +30,9 @@ From the four charts above, we observe the following:
 
 ## Insights from data
 
-We use the Apriori algorithm to figure out how items relate in customer shopping habits. After computation, we observe the following findings:
+We need to aggregate individual data into transactions to analyze trends and customer habits effectively. From these insights, we can launch campaigns that hit the spot with what customers like.
+
+For this project, we're using this thing called the Apriori algorithm to figure out how different items that customers buy are connected. And guess what? After crunching the numbers, turns out:
 - Coffee is the clear favorite, showing up in all of the top 14 combos. In addition, about 52.7% of cake fans go for Coffee, and 53.2% of sandwich lovers do too.
 - Apart from the dominance of Coffee, another notable preference is that Bread lovers tend to purchase Pastry or Tea, both combos hitting around 8%."
 
