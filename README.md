@@ -34,6 +34,11 @@ We use the Apriori algorithm to figure out how items relate in customer shopping
 - Coffee is the clear favorite, showing up in all of the top 14 combos. In addition, about 52.7% of cake fans go for Coffee, and 53.2% of sandwich lovers do too.
 - Apart from the dominance of Coffee, another notable preference is that Bread lovers tend to purchase Pastry or Tea, both combos hitting around 8%."
 
+Illustration of the results after calculation:
+<p align="center">
+  <img src="https://github.com/nguyendv02/Sales-Data-Analysis-for-Bakery/assets/137906492/6422750f-bd40-4540-b04e-a6300511da61" width="600">
+</p>
+
 ### Contact:
 Email: nguyendv02@gmail.com or 20520657@gm.uit.edu.vn
 
